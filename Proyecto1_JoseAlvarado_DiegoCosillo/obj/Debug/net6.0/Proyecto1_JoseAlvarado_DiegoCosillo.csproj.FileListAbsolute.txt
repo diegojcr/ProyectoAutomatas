@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\PROGRAMACIÓN\Proyecto1_JoseAlvarado_DiegoCosillo\bin\Debug\net6.0\Proyecto1_JoseAlvarado_DiegoCosillo.exe
+C:\Users\Usuario\Desktop\PROGRAMACIÓN\Proyecto1_JoseAlvarado_DiegoCosillo\bin\Debug\net6.0\Proyecto1_JoseAlvarado_DiegoCosillo.deps.json
+C:\Users\Usuario\Desktop\PROGRAMACIÓN\Proyecto1_JoseAlvarado_DiegoCosillo\bin\Debug\net6.0\Proyecto1_JoseAlvarado_DiegoCosillo.runtimeconfig.json
+C:\Users\Usuario\Desktop\PROGRAMACIÓN\Proyecto1_JoseAlvarado_DiegoCosillo\bin\Debug\net6.0\Proyecto1_JoseAlvarado_DiegoCosillo.dll
+C:\Users\Usuario\Desktop\PROGRAMACIÓN\Proyecto1_JoseAlvarado_DiegoCosillo\bin\Debug\net6.0\Proyecto1_JoseAlvarado_DiegoCosillo.pdb
+C:\Users\Usuario\Desktop\PROGRAMACIÓN\Proyecto1_JoseAlvarado_DiegoCosillo\obj\Debug\net6.0\Proyecto1_JoseAlvarado_DiegoCosillo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PROGRAMACIÓN\Proyecto1_JoseAlvarado_DiegoCosillo\obj\Debug\net6.0\Proyecto1_JoseAlvarado_DiegoCosillo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PROGRAMACIÓN\Proyecto1_JoseAlvarado_DiegoCosillo\obj\Debug\net6.0\Proyecto1_JoseAlvarado_DiegoCosillo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PROGRAMACIÓN\Proyecto1_JoseAlvarado_DiegoCosillo\obj\Debug\net6.0\Proyecto1_JoseAlvarado_DiegoCosillo.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PROGRAMACIÓN\Proyecto1_JoseAlvarado_DiegoCosillo\obj\Debug\net6.0\Proyecto1_JoseAlvarado_DiegoCosillo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PROGRAMACIÓN\Proyecto1_JoseAlvarado_DiegoCosillo\obj\Debug\net6.0\Proyecto1_JoseAlvarado_DiegoCosillo.dll
+C:\Users\Usuario\Desktop\PROGRAMACIÓN\Proyecto1_JoseAlvarado_DiegoCosillo\obj\Debug\net6.0\refint\Proyecto1_JoseAlvarado_DiegoCosillo.dll
+C:\Users\Usuario\Desktop\PROGRAMACIÓN\Proyecto1_JoseAlvarado_DiegoCosillo\obj\Debug\net6.0\Proyecto1_JoseAlvarado_DiegoCosillo.pdb
+C:\Users\Usuario\Desktop\PROGRAMACIÓN\Proyecto1_JoseAlvarado_DiegoCosillo\obj\Debug\net6.0\Proyecto1_JoseAlvarado_DiegoCosillo.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\PROGRAMACIÓN\Proyecto1_JoseAlvarado_DiegoCosillo\obj\Debug\net6.0\ref\Proyecto1_JoseAlvarado_DiegoCosillo.dll
