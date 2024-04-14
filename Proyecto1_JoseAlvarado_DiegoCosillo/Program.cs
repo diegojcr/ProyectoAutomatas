@@ -14,7 +14,7 @@ namespace Proyecto1_JoseAlvarado_DiegoCosillo
 		static void Main(string[] args)
 		{
 			// Ruta del archivo
-			string filePath = @"C:\Users\Diego\Desktop\ProyectoAutomatas\txtAutomata_Multiplos3.txt";
+			string filePath = @"C:\Users\Diego\Desktop\ProyectoAutomatas\Automata #1.txt";
 
 			try
 			{
