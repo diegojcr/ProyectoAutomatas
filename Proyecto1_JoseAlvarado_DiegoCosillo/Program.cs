@@ -14,7 +14,7 @@ namespace Proyecto1_JoseAlvarado_DiegoCosillo
 		static void Main(string[] args)
 		{
 			// Ruta del archivo
-			string filePath = @"C:\Users\Usuario\Desktop\ProyectoAutomatas\Automata #2.txt";
+			string filePath = @"C:\Users\Diego\Desktop\ProyectoAutomatas\txtAutomata_Multiplos3.txt";
 
 			try
 			{
@@ -107,25 +107,33 @@ namespace Proyecto1_JoseAlvarado_DiegoCosillo
 				return false;
 			}
 
-			// Crear la matriz de transiciones
-			string[,] transitions = new string[numStates, 3];
+            // Crear una lista de arreglos de strings para almacenar las transiciones
+            List<string[]> transitionsList = new List<string[]>();
 
-			// Llenar la matriz de transiciones
-			for (int i = 0; i < numStates; i++)
-			{
-				string[] parts = lines[i + 3].Split(',');
-				if (parts.Length != 3)
-				{
-					Console.WriteLine("Error: El archivo de definición del autómata no tiene el formato esperado.");
-					return false;
-				}
-				transitions[i, 0] = parts[0].Trim();
-				transitions[i, 1] = parts[1].Trim();
-				transitions[i, 2] = parts[2].Trim(); // Se agrega esta línea para capturar el estado siguiente
-			}
+            // Llenar la lista de transiciones
+            for (int i = 3; i < lines.Length; i++)
+            {
+                string[] parts = lines[i].Split(',');
+                if (parts.Length != 3)
+                {
+                    Console.WriteLine("Error: El archivo de definición del autómata no tiene el formato esperado.");
+                    return false;
+                }
+                transitionsList.Add(new string[] { parts[0].Trim(), parts[1].Trim(), parts[2].Trim() });
+            }
 
-			// Estado inicial
-			string initialState = lines[1];
+            // Convertir la lista de transiciones a una matriz
+            string[,] transitions = new string[transitionsList.Count, 3];
+            for (int i = 0; i < transitionsList.Count; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    transitions[i, j] = transitionsList[i][j];
+                }
+            }
+
+            // Estado inicial
+            string initialState = lines[1];
 
 			// Estado final
 			string finalState = lines[2];
@@ -138,7 +146,7 @@ namespace Proyecto1_JoseAlvarado_DiegoCosillo
 			{
 				// Encontrar la transición correspondiente
 				bool foundTransition = false;
-				for (int i = 0; i < numStates; i++)
+				for (int i = 0; i < transitionsList.Count; i++)
 				{
 					if (transitions[i, 0] == currentState && transitions[i, 1] == symbol.ToString())
 					{
