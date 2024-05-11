@@ -27,3 +27,18 @@ C:\Users\Diego\Desktop\ProyectoAutomatas\AFN_PROYECTO\AFN_PROYECTO\obj\Debug\net
 C:\Users\Diego\Desktop\ProyectoAutomatas\AFN_PROYECTO\AFN_PROYECTO\obj\Debug\net8.0\AFN_PROYECTO.pdb
 C:\Users\Diego\Desktop\ProyectoAutomatas\AFN_PROYECTO\AFN_PROYECTO\obj\Debug\net8.0\AFN_PROYECTO.genruntimeconfig.cache
 C:\Users\Diego\Desktop\ProyectoAutomatas\AFN_PROYECTO\AFN_PROYECTO\obj\Debug\net8.0\ref\AFN_PROYECTO.dll
+C:\Users\jdany\OneDrive - Universidad Rafael Landivar\Escritorio\ProyectoAutomatas\AFN_PROYECTO\AFN_PROYECTO\bin\Debug\net8.0\AFN_PROYECTO.exe
+C:\Users\jdany\OneDrive - Universidad Rafael Landivar\Escritorio\ProyectoAutomatas\AFN_PROYECTO\AFN_PROYECTO\bin\Debug\net8.0\AFN_PROYECTO.deps.json
+C:\Users\jdany\OneDrive - Universidad Rafael Landivar\Escritorio\ProyectoAutomatas\AFN_PROYECTO\AFN_PROYECTO\bin\Debug\net8.0\AFN_PROYECTO.runtimeconfig.json
+C:\Users\jdany\OneDrive - Universidad Rafael Landivar\Escritorio\ProyectoAutomatas\AFN_PROYECTO\AFN_PROYECTO\bin\Debug\net8.0\AFN_PROYECTO.dll
+C:\Users\jdany\OneDrive - Universidad Rafael Landivar\Escritorio\ProyectoAutomatas\AFN_PROYECTO\AFN_PROYECTO\bin\Debug\net8.0\AFN_PROYECTO.pdb
+C:\Users\jdany\OneDrive - Universidad Rafael Landivar\Escritorio\ProyectoAutomatas\AFN_PROYECTO\AFN_PROYECTO\obj\Debug\net8.0\AFN_PROYECTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdany\OneDrive - Universidad Rafael Landivar\Escritorio\ProyectoAutomatas\AFN_PROYECTO\AFN_PROYECTO\obj\Debug\net8.0\AFN_PROYECTO.AssemblyInfoInputs.cache
+C:\Users\jdany\OneDrive - Universidad Rafael Landivar\Escritorio\ProyectoAutomatas\AFN_PROYECTO\AFN_PROYECTO\obj\Debug\net8.0\AFN_PROYECTO.AssemblyInfo.cs
+C:\Users\jdany\OneDrive - Universidad Rafael Landivar\Escritorio\ProyectoAutomatas\AFN_PROYECTO\AFN_PROYECTO\obj\Debug\net8.0\AFN_PROYECTO.csproj.CoreCompileInputs.cache
+C:\Users\jdany\OneDrive - Universidad Rafael Landivar\Escritorio\ProyectoAutomatas\AFN_PROYECTO\AFN_PROYECTO\obj\Debug\net8.0\AFN_PROYECTO.sourcelink.json
+C:\Users\jdany\OneDrive - Universidad Rafael Landivar\Escritorio\ProyectoAutomatas\AFN_PROYECTO\AFN_PROYECTO\obj\Debug\net8.0\AFN_PROYECTO.dll
+C:\Users\jdany\OneDrive - Universidad Rafael Landivar\Escritorio\ProyectoAutomatas\AFN_PROYECTO\AFN_PROYECTO\obj\Debug\net8.0\refint\AFN_PROYECTO.dll
+C:\Users\jdany\OneDrive - Universidad Rafael Landivar\Escritorio\ProyectoAutomatas\AFN_PROYECTO\AFN_PROYECTO\obj\Debug\net8.0\AFN_PROYECTO.pdb
+C:\Users\jdany\OneDrive - Universidad Rafael Landivar\Escritorio\ProyectoAutomatas\AFN_PROYECTO\AFN_PROYECTO\obj\Debug\net8.0\AFN_PROYECTO.genruntimeconfig.cache
+C:\Users\jdany\OneDrive - Universidad Rafael Landivar\Escritorio\ProyectoAutomatas\AFN_PROYECTO\AFN_PROYECTO\obj\Debug\net8.0\ref\AFN_PROYECTO.dll

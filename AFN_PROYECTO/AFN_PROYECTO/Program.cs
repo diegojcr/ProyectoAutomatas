@@ -9,7 +9,7 @@ namespace Proyecto1_JoseAlvarado_DiegoCosillo
 		static void Main(string[] args)
 		{
 			// Ruta del archivo
-			string filePath = @"C:\Users\Diego\Desktop\ProyectoAutomatas\NFA #2.txt";
+			string filePath = @"C:\Users\jdany\OneDrive - Universidad Rafael Landivar\Escritorio\ProyectoAutomatas\NFA #2.txt";
 
 			try
 			{
