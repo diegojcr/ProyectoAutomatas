@@ -9,7 +9,7 @@ namespace Proyecto1_JoseAlvarado_DiegoCosillo
 		static void Main(string[] args)
 		{
 			// Ruta del archivo
-			string filePath = @"C:\Users\jdany\OneDrive - Universidad Rafael Landivar\Escritorio\ProyectoAutomatas\NFA #2.txt";
+			string filePath = @"C:\Users\Diego\Desktop\ProyectoAutomatas\NFA #2.txt";
 
 			try
 			{
@@ -125,21 +125,21 @@ namespace Proyecto1_JoseAlvarado_DiegoCosillo
 			// Recorrer la cadena de entrada
 			foreach (char symbol in inputString)
 			{
-				// Encontrar todos los estados alcanzables desde los estados actuales con el símbolo actual
-				HashSet<string> nextStates = new HashSet<string>();
-				foreach (string currentState in currentStates)
-				{
-					foreach (string[] transition in transitionsList)
-					{
-						if (transition[0] == currentState && (transition[1] == symbol.ToString() || transition[1] == "ε"))
-						{
-							nextStates.UnionWith(GetEpsilonClosure(transition[2], transitionsList));
-						}
-					}
-				}
+                // Encontrar todos los estados alcanzables desde los estados actuales con el símbolo actual
+                HashSet<string> nextStates = new HashSet<string>();
+                foreach (string currentState in currentStates)
+                {
+                    foreach (string[] transition in transitionsList)
+                    {
+                        if (transition[0] == currentState && (transition[1] == symbol.ToString() || (transition[1] == "\u03B5" && symbol == '\u03B5')))
+                        {
+                            nextStates.UnionWith(GetEpsilonClosure(transition[2], transitionsList));
+                        }
+                    }
+                }
 
-				// Actualizar los estados actuales
-				currentStates = nextStates;
+                // Actualizar los estados actuales
+                currentStates = nextStates;
 
 				// Si no hay estados alcanzables para el símbolo actual, la cadena no es aceptada
 				if (currentStates.Count == 0)
@@ -173,7 +173,7 @@ namespace Proyecto1_JoseAlvarado_DiegoCosillo
 				string currentState = stack.Pop();
 				foreach (string[] transition in transitionsList)
 				{
-					if (transition[0] == currentState && transition[1] == "ε")
+					if (transition[0] == currentState && transition[1] == "\u03B5")
 					{
 						if (!epsilonClosure.Contains(transition[2]))
 						{

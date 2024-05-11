@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jdany\\source\\repos\\AFN_PROYECTO\\AFN_PROYECTO\\AFN_PROYECTO.csproj": {}
+    "C:\\Users\\Diego\\Desktop\\ProyectoAutomatas\\AFN_PROYECTO\\AFN_PROYECTO\\AFN_PROYECTO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jdany\\source\\repos\\AFN_PROYECTO\\AFN_PROYECTO\\AFN_PROYECTO.csproj": {
+    "C:\\Users\\Diego\\Desktop\\ProyectoAutomatas\\AFN_PROYECTO\\AFN_PROYECTO\\AFN_PROYECTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jdany\\source\\repos\\AFN_PROYECTO\\AFN_PROYECTO\\AFN_PROYECTO.csproj",
+        "projectUniqueName": "C:\\Users\\Diego\\Desktop\\ProyectoAutomatas\\AFN_PROYECTO\\AFN_PROYECTO\\AFN_PROYECTO.csproj",
         "projectName": "AFN_PROYECTO",
-        "projectPath": "C:\\Users\\jdany\\source\\repos\\AFN_PROYECTO\\AFN_PROYECTO\\AFN_PROYECTO.csproj",
-        "packagesPath": "C:\\Users\\jdany\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jdany\\source\\repos\\AFN_PROYECTO\\AFN_PROYECTO\\obj\\",
+        "projectPath": "C:\\Users\\Diego\\Desktop\\ProyectoAutomatas\\AFN_PROYECTO\\AFN_PROYECTO\\AFN_PROYECTO.csproj",
+        "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diego\\Desktop\\ProyectoAutomatas\\AFN_PROYECTO\\AFN_PROYECTO\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jdany\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
